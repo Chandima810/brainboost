@@ -1,0 +1,11 @@
+/* Tailwind base, components, and utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: You can add any custom global styles here if absolutely needed */
+
+/* Example: set a default font-family for the entire app */
+body {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
